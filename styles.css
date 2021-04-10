@@ -1,0 +1,171 @@
+.red{
+    color: red;
+}
+li:hover{
+    color: #eb2127;
+}
+.ab{
+    display: flex;
+}
+.reds{
+    color: red;
+}
+a{
+    color: blue;
+}
+a:hover{
+    text-decoration: none;
+    color: #eb2127;
+}
+.slider {
+    background: url(https://www.trgpcorp.com/assets/images/slides/slide-01.jpg) no-repeat center top;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+ul{
+    display: flex;
+
+}
+.fotr{
+    background-color: white;
+}
+.capital-box{
+    display: flex;
+    
+}
+.col-06{
+    width: 45%;
+    display: inline-block;
+    margin-right: 45px;
+}
+li{list-style: none;
+margin: 10px;
+}
+.h{
+    float: left;
+
+}
+.hid{
+    visibility: hidden;
+    float: left;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    font-family: 'OpenSansLight';
+    font-weight: normal;
+    color: #eb2127;
+    padding-bottom: 5px;
+}
+#footer {
+    background: #ffffff url(../images/bg-footer.jpg) repeat-x left top;
+    padding: 40px 0 20px 0;
+    font-size: 0.9em;
+    color: #585858;
+}
+.full-width {
+    width: 100%;
+    display: block;
+    position: relative;
+}
+.container12, .container16 {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+.clearfix:before, .clearfix:after, .row:before, .row:after, .container12:before, .container12:after, .container16:before, .container16:after {
+    content: '.';
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+}
+.clearfix:before, .clearfix:after, .row:before, .row:after, .container12:before, .container12:after, .container16:before, .container16:after {
+    content: '.';
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+}
+.container12 .column12 {
+    width: 98.245614035087719298245614035088%;
+}
+.row:after, .clearfix:after, .container12:after, .container16:after {
+    clear: both;
+}
+#footer .column12 > div:nth-child(1) {
+    width: 30%;
+    margin: 0 3% 0 0;
+    float: left;
+}
+#footer .column12 > div:nth-child(2) {
+    width: 25%;
+    margin: 0 3% 0 0;
+    float: left;
+}
+#footer .column12 > div:nth-child(3) {
+    width: 39%;
+    margin: 0 0 0 0;
+    float: left;
+}
+#footer .column12 > div:nth-child(1) > div:first-child {
+    background: #ffffff;
+    padding: 4px 40px 50px 0;
+    float: left;
+}
+p {
+    margin: 0 0 15px 0;
+    line-height: 1.6;
+}
+#footer ul li {
+    margin: 0 0 0 0;
+}
+#footer h6 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    color: #585858;
+    text-align: left;
+    text-transform: uppercase;
+}
+#footer ul li a{
+    background: url(../images/icon-phone.png) no-repeat left 2px;
+    background-size: 16px 16px;
+    text-decoration: none;
+    color: #585858;
+}
+#footer .column12 > div:nth-child(3) > ul {
+    width: 35%;
+    margin: 0;
+    padding: 0 0 0 20px;
+    box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    float: left;
+}
+#footer ul.square-list {
+    margin-left: 20px;
+}
+#footer ul li {
+    margin: 0 0 0 0;
+
+}
+    #footer .column12 > div:nth-child(3) ul + ul {
+        width: 50%;
+    }
+#footer .column12 > div:nth-child(3) > ul {
+    width: 35%;
+    margin: 0;
+    padding: 0 0 0 20px;
+    box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    float: left;
+}
